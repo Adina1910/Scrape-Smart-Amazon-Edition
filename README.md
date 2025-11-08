@@ -9,7 +9,7 @@ It efficiently extracts key information such as **product names, prices, discoun
 - Store the scraped data in a structured CSV file.
 - Create a reusable scraping framework for e-commerce analytics.
 - Lay the foundation for integration with AI/ML models.
-
+- 
 ## Tools and Technologies
 - Language - Python
 - Automation - Selenium WebDriver
