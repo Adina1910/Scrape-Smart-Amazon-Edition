@@ -17,5 +17,8 @@ Browser - Google Chrome
 Storage - CSV File Handling
 Libraries - selenium, csv, time
 IDE - Jupyter Notebook
+
+## Preview
 ![Screenshot 2025-10-30 174018](https://github.com/user-attachments/assets/2f895d04-40b8-4db6-b6a0-aefb91bba000)
+![Screenshot 2025-10-30 200448](https://github.com/user-attachments/assets/9db4501f-a98e-41f7-adc7-d34aa394f093)
 
