@@ -1,4 +1,4 @@
-**ScrapeSmart: Amazon Edition**
+## ScrapeSmart: Amazon Edition
 
 An automated web scraping system that collects structured product data from **Amazon India** using **Python and Selenium WebDriver**.  
 It efficiently extracts key information such as **product names, prices, discounts, and monthly purchase counts**, and saves the data into a CSV file for analytics, visualization, or machine learning applications.
@@ -11,12 +11,12 @@ It efficiently extracts key information such as **product names, prices, discoun
 - Lay the foundation for integration with AI/ML models.
 
 ## Tools and Technologies
-Language - Python
-Automation - Selenium WebDriver
-Browser - Google Chrome
-Storage - CSV File Handling
-Libraries - selenium, csv, time
-IDE - Jupyter Notebook
+- Language - Python
+- Automation - Selenium WebDriver
+- Browser - Google Chrome
+- Storage - CSV File Handling
+- Libraries - selenium, csv, time
+- IDE - Jupyter Notebook
 
 ## Preview
 <img width="321" height="210" alt="Screenshot 2025-10-30 174018" src="https://github.com/user-attachments/assets/2f895d04-40b8-4db6-b6a0-aefb91bba000" />
